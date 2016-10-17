@@ -1,0 +1,2 @@
+sudo cp -R /opt/vc/include/* /usr/include
+sudo cp /opt/vc/include/interface/vcos/pthreads/* /usr/include/interface/vcos

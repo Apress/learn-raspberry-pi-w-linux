@@ -1,0 +1,1 @@
+sudo apt-get install build-essential autoconf ccache gawk gperf mesa-utils zip unzip
